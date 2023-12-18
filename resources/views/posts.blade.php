@@ -2,6 +2,7 @@
 @section('container')
 
     <h1>{{$title}}</h1>
+    <h1>file nyoba buat nyoba git</h1>
 
     @if ($posts->count())
         
